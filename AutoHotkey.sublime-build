@@ -1,0 +1,14 @@
+{
+	"selector": "source.ahk",
+	"target": "ahkrun",
+	// "name": "Run",
+
+	"variants": [
+		{"name": "Compile", "target": "ahkcompile"},
+		{"name": "Compile V2", "target": "ahkcompile_v2"},
+		{"name": "Run V2", "target": "ahkrun_v2"},
+		{"name": "Run As Piped Buffer", "target": "ahkrunpiped"},
+		{"name": "Run As Piped Buffer V2", "target": "ahkrunpiped_v2"},
+	]
+
+}

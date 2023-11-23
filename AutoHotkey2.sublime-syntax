@@ -1305,6 +1305,11 @@ contexts:
     - match: '(?=\s;|^;)'
       scope: comment.line.ahk2
       push: comment-line-body
+
+#    - match: ';.*$'
+#      scope: comment.line.ahk2
+#      push: comment-line-body
+
     - match: '^\s*/\*'
       scope: comment.block.ahk2
       push: comment-block-body
