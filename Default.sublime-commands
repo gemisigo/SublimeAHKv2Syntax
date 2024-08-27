@@ -2,7 +2,7 @@
 	{"caption": "AutoHotkey - Compile", "command": "ahkcompile"},
 	{"caption": "AutoHotkey - Run As Piped Buffer", "command": "ahkrunpiped"},
 	{"caption": "AutoHotkey - Run", "command": "ahkrun"},
-	{"caption": "AutoHotkey V2 - Run As Piped Buffer", "command": "ahkrunpiped_v2"}
+	{"caption": "AutoHotkey V2 - Run As Piped Buffer", "command": "ahkrunpiped_v2"},
 	{"caption": "AutoHotkey V2- Compile", "command": "ahkcompile_v2"},
 	{"caption": "AutoHotkey V2- Run", "command": "ahkrun_v2"},
 ]
